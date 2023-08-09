@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SB_CAN_genesis_V1.0_lib")(type "KiCad")(uri "${KIPRJMOD}/SB_CAN_genesis_V1.0_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-08-09_19-54-20")(type "KiCad")(uri "C:/Users/victo/Downloads/ul_TMC2209-LA-T/KiCADv6/2023-08-09_19-54-20.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-08-09_20-39-56")(type "KiCad")(uri "C:/Users/victo/Downloads/ul_SN65HVD230DR/KiCADv6/2023-08-09_20-39-56.kicad_sym")(options "")(descr ""))
+)

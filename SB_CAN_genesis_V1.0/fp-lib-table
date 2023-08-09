@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SB_CAN_genesis_V1.0_lib")(type "KiCad")(uri "${KIPRJMOD}/SB_CAN_genesis_V1.0_lib.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/victo/Downloads/ul_TMC2209-LA-T/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprin44ts")(type "KiCad")(uri "C:/Users/victo/Downloads/ul_SN65HVD230DR/KiCADv6/footprin44ts.pretty")(options "")(descr ""))
+)
