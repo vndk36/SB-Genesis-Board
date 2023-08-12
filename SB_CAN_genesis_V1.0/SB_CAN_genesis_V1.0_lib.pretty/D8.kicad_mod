@@ -126,4 +126,9 @@
   (pad "6" smd rect (at 2.4638 0.635) (size 1.9812 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6eb99186-c009-4e7f-898f-3dfc3d49a5ef))
   (pad "7" smd rect (at 2.4638 -0.635) (size 1.9812 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dc1a069e-f8a3-4d5d-a644-4c9de46d512c))
   (pad "8" smd rect (at 2.4638 -1.905) (size 1.9812 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1296b916-366b-48b0-a3ed-80d9b0505702))
+  (model "${KICAD_MY_PATH}/SB_can_board_vndk36/SB Genesis Board/3D_model/SN65HVD230DR.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
